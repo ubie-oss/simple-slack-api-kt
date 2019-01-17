@@ -33,6 +33,6 @@ Use gradle!
 ```gradle
 dependencies {
     implementation("com.ullink.slack:simpleslackapi:${simpleslackapi.version}")
-    implementation("app.ubie:simple-slack-api-kt:1.0.0")
+    implementation("app.ubie:simple-slack-api-kt:1.0.1")
 }
 ```
