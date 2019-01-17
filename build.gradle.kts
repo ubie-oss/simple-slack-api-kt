@@ -25,13 +25,12 @@ jacoco {
 repositories {
     jcenter()
     mavenCentral()
-    maven(url = "https://jitpack.io")
 }
 
 dependencies {
     val kotlinVersion: String by project
     implementation("org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion")
-    implementation("com.github.Ullink:simple-slack-api:1.2.0")
+    implementation("com.ullink.slack:simpleslackapi:1.2.0")
 
     val junitVersion = "5.3.0"
     testCompile("org.junit.jupiter:junit-jupiter-api:$junitVersion")
