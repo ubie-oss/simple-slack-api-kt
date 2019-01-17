@@ -1,4 +1,4 @@
-# brave-kt
+# simple-slack-api-kt
 
 [![CircleCI](https://circleci.com/gh/ubie-inc/simple-slack-api-kt/tree/master.svg?style=svg)](https://circleci.com/gh/ubie-inc/simple-slack-api-kt/tree/master)
 
