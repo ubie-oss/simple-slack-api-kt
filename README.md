@@ -1,6 +1,6 @@
 # simple-slack-api-kt
 
-[![CircleCI](https://circleci.com/gh/ubie-inc/simple-slack-api-kt/tree/master.svg?style=svg)](https://circleci.com/gh/ubie-inc/simple-slack-api-kt/tree/master)
+![GitHub Actions](https://github.com/ubie-inc/simple-slack-api-kt/actions/workflows/build.yml/badge.svg)
 
 simple-slack-api-kt is the library that adds Kotlin friendly API for [simple-slack-api](https://github.com/Ullink/simple-slack-api)
 
